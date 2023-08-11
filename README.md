@@ -96,7 +96,7 @@ I'm a student enrolled at Vellore Institute of Technology, where I'm currently p
 				<tr>
 					<td width="25%" align="center">
 						<span><strong>Node JS</strong></span><br/>
-						<img height="64px" width="64px" src="[node2.png](https://drive.google.com/file/d/1g6-GdmXsLczm_9wrYMzLUWPkb0BpA10G/view?usp=drive_link)">
+						<img height="64px" width="64px" src="https://drive.google.com/file/d/1g6-GdmXsLczm_9wrYMzLUWPkb0BpA10G/view">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Express</strong></span><br/>
