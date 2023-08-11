@@ -1,7 +1,4 @@
 # Welcome to my github! 👋
-<div align="center">
-	<img src="https://www.canva.com/design/DAFrO32XRns/IxMQdoIzsLlCGvg79-MdNg/edit?utm_content=DAFrO32XRns&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-</div>
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
