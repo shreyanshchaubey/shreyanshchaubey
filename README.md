@@ -1,9 +1,5 @@
 # Welcome to my github! 👋
 
-<div align="center">
-	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
-</div>
-
 ## About me :mortar_board:
 I'm a student enrolled at Vellore Institute of Technology, where I'm currently pursuing my studies. Ever since I was young, I've been captivated by the wonders of technology. This passion has enabled me to cultivate a strong aptitude for all things tech-related and has fueled my inquisitiveness for further learning. I hold a strong conviction that there's no limit to the amount of knowledge 🧠 one can acquire.
 
