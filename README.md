@@ -96,15 +96,15 @@ I'm a student enrolled at Vellore Institute of Technology, where I'm currently p
 				<tr>
 					<td width="25%" align="center">
 						<span><strong>Node JS</strong></span><br/>
-						<img height="64px" width="64px" src="https://drive.google.com/file/d/1g6-GdmXsLczm_9wrYMzLUWPkb0BpA10G/view">
+						<img height="64px" width="64px" src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Express</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg">
+						<img height="64px" width="64px" src="https://e7.pngegg.com/pngimages/212/722/png-clipart-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue.png">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>MongoDB</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+						<img height="64px" width="64px" src="https://e7.pngegg.com/pngimages/63/19/png-clipart-mongodb-database-nosql-postgresql-mongo-text-logo.png">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Firebase</strong></span><br/>
