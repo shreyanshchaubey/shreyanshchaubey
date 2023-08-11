@@ -121,7 +121,7 @@ I'm a student enrolled at Vellore Institute of Technology, where I'm currently p
 - Qualify for GSOC and ICPC World Finals!
 
 ## Reach me 
-[![Github](https://img.shields.io/github/followers/shreyanshchaubey?label=Follow&style=social)](https://github.com/shreyanshchaubey)
+[![Github](https://img.shields.io/github/shreyanshchaubey?label=Follow&style=social)](https://github.com/shreyanshchaubey)
 [![Instagram](https://img.shields.io/badge/-@shreyanshchaubeyy-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shreyanshchaubeyy/)](https://www.instagram.com/shreyanshchaubeyy/)
 [![Linkedin](https://img.shields.io/badge/-shreyansh%20chaubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyansh-chaubey-508395233/)](https://www.linkedin.com/in/shreyansh-chaubey-508395233/)
 [![Mail](https://img.shields.io/badge/-chaubeyshreyansh0@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/shreyansh-chaubey-508395233/)](mailto:chaubeyshreyansh0@gmail.com)
