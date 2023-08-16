@@ -1,5 +1,11 @@
 # Welcome to my github! 👋
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shreyansh+Chaubey....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 ## About me :mortar_board:
 I'm a student enrolled at Vellore Institute of Technology, where I'm currently pursuing my studies. Ever since I was young, I've been captivated by the wonders of technology. This passion has enabled me to cultivate a strong aptitude for all things tech-related and has fueled my inquisitiveness for further learning. I hold a strong conviction that there's no limit to the amount of knowledge 🧠 one can acquire.
 
