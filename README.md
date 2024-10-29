@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! Here’s a bit about me:<br><br>
+👋 Hello! Here’s a bit about me:<br>
 
 🎓 I'm a senior specializing in Computer Science and Engineering at VIT, Vellore.<br>
 
