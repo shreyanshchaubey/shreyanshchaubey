@@ -1,13 +1,13 @@
 # 💫 About Me:
 👋 Hello! Here’s a bit about me:<br><br>
 
-🎓 I'm a senior specializing in Computer Science and Engineering at VIT, Vellore.<br><br>
+🎓 I'm a senior specializing in Computer Science and Engineering at VIT, Vellore.<br>
 
-🛠️ Experienced in DSA, front-end basics (HTML, CSS, JavaScript), and have explored AWS fundamentals.<br><br>
+🛠️ Experienced in DSA, front-end basics (HTML, CSS, JavaScript), and have explored AWS fundamentals.<br>
 
-🚀 Upcoming Software Engineer at HPE.<br><br>
+🚀 Upcoming Software Engineer at HPE.<br>
 
-⚔️ Currently leveling up in competitive programming: Focused on enhancing speed and precision in solving problems and building more efficient solutions.<br><br>
+⚔️ Currently leveling up in competitive programming: Focused on enhancing speed and precision in solving problems and building more efficient solutions.<br>
 
 🤝 Always eager to learn: I’m constantly expanding my skill set and looking to collaborate on exciting new projects. Let’s create something awesome together!
 
